@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+tools I like:
+- terminal
+   - [hyper](https://hyper.is/)
+   - [fuzzy finder (fzf)](https://github.com/junegunn/fzf)
+   - [oh my Zsh!](https://ohmyz.sh/)
+
 <!--
 **egarmel/egarmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
